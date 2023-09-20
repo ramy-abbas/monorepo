@@ -12,6 +12,9 @@
     <name>Sakai base pom</name>
     <groupId>org.sakaiproject</groupId>
     <artifactId>base</artifactId>
+
+
+    
     <packaging>pom</packaging>
 
     <organization>
