@@ -18,7 +18,7 @@
   "homepage": "https://github.com/snyk-fixtures/npm-two-vuln-deps#readme",
   "dependencies": {
     "sharp": "^0.17.1",
-    "snyk": "1.299.0",
-    "twilio": "^2.11.1"
+    "snyk": "1.996.0",
+    "twilio": "^3.17.1"
   }
 }
